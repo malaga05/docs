@@ -26,25 +26,25 @@ Seleccionar la codíficación de caracteres, elegir la opcion **"ISO-8859-9"**
 
     |caracteres|
 
-    Imagen 3. codíficación de caracteres
+    Imagen 3. codíficación de caracteres.
 
 Cargar el archivo a importar bajo la extension .tsv, para ello de clic en el boton **Seleccionar Archivos a Cargar**, seleccione la opcion **"Seleccionar archivo"**, allí debe ubicar el archivo que va importar, le mostrará la siguiente pantalla.
 
     |cargar archivo|
 
-    Imagen 4. Cargar Archivo
+    Imagen 4. Cargar Archivo.
 
-Una vez cargado el archivo dar clic en el boton **"Cargar Archivo(Upload)"**
+Una vez cargado el archivo dar clic en el boton **"Cargar Archivo(Upload)"**.
 
     |archivo|
 
     Imagen 4. Archivo a Cargar
 
-Elegir el formato de importación correspondiente
+Elegir el formato de importación correspondiente.
 
     |formato de importacion|
 
-    Imagen 5. Formato de importación
+    Imagen 5. Formato de importación.
 
 Una vez cargado el archivo, dar clic en el ok. Al completar la carga deben aparecer una ventana en donde se indica la cantidad de lineas que contiene el archivos y las lineas que subieron.
 
