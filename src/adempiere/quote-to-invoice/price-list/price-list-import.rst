@@ -48,7 +48,5 @@ Elegir el formato de importación correspondiente
 
 Una vez cargado el archivo, dar clic en el ok. Al completar la carga deben aparecer una ventana en donde se indica la cantidad de lineas que contiene el archivos y las lineas que subieron.
 
-
-
 **Importar Lista de Precio**
 ============================
